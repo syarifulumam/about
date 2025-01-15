@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Hello Everyone, My name is Syariful Umam<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+  <h1>Hello, My name is Syariful Umam<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
