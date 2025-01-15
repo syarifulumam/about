@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Hello Everyone, My name is Fioreza Radhin Naufal<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+  <h1>Hello Everyone, My name is Syariful Umam<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
@@ -17,9 +17,9 @@
 </div>
 
 <p align="center">
-<a href="https://github.com/Fiorezarn">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fiorezarn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fiorezarn&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/syarifulumam">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=syarifulumam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=syarifulumam&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
